@@ -1,5 +1,5 @@
 # ZZEncryptedKeychain
-A wrapper introduced to ease encryption/decryption without the knowledge of Network Security. It allows easy encrypted storage to Keychain, and keychain implementation is made easy with just a caller method, your data is securely stored in keychain.
+A wrapper introduced to ease encryption/decryption without the knowledge of Security in iOS. It allows easy encrypted storage to keychain, and keychain implementation is made easy with just a caller method, your data is securely stored in keychain.
 
 Follow the demo app, it contains a simple note keeping application that requires a password and a username.
 
