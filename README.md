@@ -17,7 +17,7 @@ StringData now can be saved to CoreData
 For decryption fetch from CoreData and Follow:
 <pre>
  let data = self.convertToDataFromBase64String(string: fetchedData)
- let self.decryptData(data: data, key: KeychainConfiguration.key)!
+ let actualData = self.decryptData(data: data, key: KeychainConfiguration.key)!
  </pre>
  or
  <pre>
